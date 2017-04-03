@@ -1,0 +1,7 @@
+c:\users\paulr\documents\visual studio 2017\Projects\ConsoleApp2\SerializableHelper\bin\Debug\SerializableHelper.dll
+c:\users\paulr\documents\visual studio 2017\Projects\ConsoleApp2\SerializableHelper\bin\Debug\SerializableHelper.pdb
+c:\users\paulr\documents\visual studio 2017\Projects\ConsoleApp2\SerializableHelper\bin\Debug\MessageRequest.dll
+c:\users\paulr\documents\visual studio 2017\Projects\ConsoleApp2\SerializableHelper\bin\Debug\MessageRequest.pdb
+c:\users\paulr\documents\visual studio 2017\Projects\ConsoleApp2\SerializableHelper\obj\Debug\SerializableHelper.csprojResolveAssemblyReference.cache
+c:\users\paulr\documents\visual studio 2017\Projects\ConsoleApp2\SerializableHelper\obj\Debug\SerializableHelper.dll
+c:\users\paulr\documents\visual studio 2017\Projects\ConsoleApp2\SerializableHelper\obj\Debug\SerializableHelper.pdb

@@ -1,0 +1,14 @@
+C:\Users\niall\Downloads\DingTechnicalTest\SerializableHelper\bin\Debug\SerializableHelper.dll
+C:\Users\niall\Downloads\DingTechnicalTest\SerializableHelper\bin\Debug\SerializableHelper.pdb
+C:\Users\niall\Downloads\DingTechnicalTest\SerializableHelper\bin\Debug\MessageRequest.dll
+C:\Users\niall\Downloads\DingTechnicalTest\SerializableHelper\bin\Debug\MessageRequest.pdb
+C:\Users\niall\Downloads\DingTechnicalTest\SerializableHelper\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\niall\Downloads\DingTechnicalTest\SerializableHelper\obj\Debug\SerializableHelper.dll
+C:\Users\niall\Downloads\DingTechnicalTest\SerializableHelper\obj\Debug\SerializableHelper.pdb
+C:\Users\paulr\Desktop\niall\DingTechnicalTest\SerializableHelper\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\paulr\Desktop\niall\DingTechnicalTest\SerializableHelper\obj\Debug\SerializableHelper.dll
+C:\Users\paulr\Desktop\niall\DingTechnicalTest\SerializableHelper\obj\Debug\SerializableHelper.pdb
+C:\Users\paulr\Desktop\niall\DingTechnicalTest\SerializableHelper\bin\Debug\SerializableHelper.dll
+C:\Users\paulr\Desktop\niall\DingTechnicalTest\SerializableHelper\bin\Debug\SerializableHelper.pdb
+C:\Users\paulr\Desktop\niall\DingTechnicalTest\SerializableHelper\bin\Debug\MessageRequest.dll
+C:\Users\paulr\Desktop\niall\DingTechnicalTest\SerializableHelper\bin\Debug\MessageRequest.pdb

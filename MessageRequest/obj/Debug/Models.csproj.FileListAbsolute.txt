@@ -1,0 +1,14 @@
+c:\users\paulr\documents\visual studio 2017\Projects\ConsoleApp2\MessageRequest\bin\Debug\MessageRequest.dll
+c:\users\paulr\documents\visual studio 2017\Projects\ConsoleApp2\MessageRequest\bin\Debug\MessageRequest.pdb
+c:\users\paulr\documents\visual studio 2017\Projects\ConsoleApp2\MessageRequest\obj\Debug\Models.csprojResolveAssemblyReference.cache
+c:\users\paulr\documents\visual studio 2017\Projects\ConsoleApp2\MessageRequest\obj\Debug\MessageRequest.dll
+c:\users\paulr\documents\visual studio 2017\Projects\ConsoleApp2\MessageRequest\obj\Debug\MessageRequest.pdb
+C:\Users\niall\Downloads\DingTechnicalTest\MessageRequest\bin\Debug\MessageRequest.dll
+C:\Users\niall\Downloads\DingTechnicalTest\MessageRequest\bin\Debug\MessageRequest.pdb
+C:\Users\niall\Downloads\DingTechnicalTest\MessageRequest\obj\Debug\MessageRequest.dll
+C:\Users\niall\Downloads\DingTechnicalTest\MessageRequest\obj\Debug\MessageRequest.pdb
+C:\Users\paulr\Desktop\niall\DingTechnicalTest\MessageRequest\bin\Debug\MessageRequest.dll
+C:\Users\paulr\Desktop\niall\DingTechnicalTest\MessageRequest\bin\Debug\MessageRequest.pdb
+C:\Users\paulr\Desktop\niall\DingTechnicalTest\MessageRequest\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\paulr\Desktop\niall\DingTechnicalTest\MessageRequest\obj\Debug\MessageRequest.dll
+C:\Users\paulr\Desktop\niall\DingTechnicalTest\MessageRequest\obj\Debug\MessageRequest.pdb
